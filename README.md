@@ -169,7 +169,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 <div align="center">
 
 ### 👑 **Creator**
-**Tejv** - *Lead Developer*
+**Tejv** - Lead Developer
 
 ### 🌐 **Join Our Community**
 [![Discord](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PYfeSaDGPJ)
@@ -233,7 +233,9 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 **⭐ Star this repo if you found it helpful!**
 
 **Made with ❤️ & by [Tejv](https://youtube.com/@tejware)**
+
 *Dont Forget To Support Us*
+
 **Support Us – [Discord](https://discord.gg/PYfeSaDGPJ)**
 
 *🚀 Empowering Discord communities with intelligent verification*
@@ -242,4 +244,5 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 
 </div>
+
 
