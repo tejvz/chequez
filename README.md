@@ -122,7 +122,7 @@ npm run pm2:stop
 
 ```bash
 docker build -t cheques-bot .
-docker run -d --name cheques --env-file .env cheques-bot
+docker run -d --name cheques
 ```
 
 ---
@@ -241,6 +241,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE](h
 
 
 </div>
+
 
 
 
