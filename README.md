@@ -1,4 +1,4 @@
-# 🤖 Cheques - YouTube OCR Verification Bot
+# 🤖 YouTube OCR Verification Bot
 
 <div align="center">
   
@@ -244,5 +244,6 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 
 </div>
+
 
 
