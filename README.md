@@ -52,16 +52,15 @@
    ```
 
 3. **Environment Setup**
+   *Replace Your Details In cheques.js*
    ```bash
-   # Replace Your Details In cheques.js
    nano cheques.js
    ```
 
-4. **Launch the Bot**
+5. **Launch the Bot**
    ```bash
    npm run dev
    npm start
-   npm run pm2:start
    ```
 
 ---
@@ -244,6 +243,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 
 </div>
+
 
 
 
