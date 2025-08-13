@@ -141,13 +141,13 @@ npm test
 
 ### Code Structure
 
-```
+<pre>
 cheques-core/
-├── cheques.js           # Main bot file (all-in-one)
-├── package.json         # Dependencies and scripts
-├── Licence/LICENSE.md  # Custom license
-└── README.md           # You are here!
-```
+├── cheques.js
+├── package.json
+├── Licence/LICENSE.md
+└── README.md
+</pre>
 
 ---
 
@@ -241,6 +241,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE](h
 
 
 </div>
+
 
 
 
