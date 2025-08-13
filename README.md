@@ -202,8 +202,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Comprehensive error handling
 - Multi-language OCR support
 
-[View Full Changelog](CHANGELOG.md)
-
 ---
 
 ## 📄 License
@@ -243,6 +241,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE](h
 
 
 </div>
+
 
 
 
