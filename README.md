@@ -208,7 +208,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under a **Custom License**. Please read the [LICENSE file](Licence/LICENSE.md) for complete terms and conditions.
+This project is licensed under a **Custom License**. Please read the [LICENSE](https://github.com/tejvz/chequez/tree/main/License) for complete terms and conditions.
 
 **Key Points:**
 - ✅ Personal use allowed
@@ -243,6 +243,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 
 </div>
+
 
 
 
