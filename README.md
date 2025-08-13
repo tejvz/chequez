@@ -232,7 +232,9 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 **⭐ Star this repo if you found it helpful!**
 
-**Made with ❤️ & by [@Tejv](https://discord.gg/PYfeSaDGPJ)**
+**Made with ❤️ & by [Tejv](https://youtube.com/@tejware)**
+*Dont Forget To Support Us*
+**Support Us – [Discord](https://discord.gg/PYfeSaDGPJ)**
 
 *🚀 Empowering Discord communities with intelligent verification*
 
@@ -240,3 +242,4 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 
 
 </div>
+
