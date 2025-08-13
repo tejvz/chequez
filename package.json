@@ -1,0 +1,103 @@
+{
+  "name": "cheques-core",
+  "version": "1.0.0",
+  "description": "Cheques - The Best YouTube OCR Verification Bot",
+  "main": "cheques.js",
+  "scripts": {
+    "start": "node cheques.js",
+    "dev": "nodemon cheques.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "pm2:start": "pm2 start cheques.js --name cheques-bot",
+    "pm2:stop": "pm2 stop cheques-bot",
+    "pm2:restart": "pm2 restart cheques-bot",
+    "pm2:logs": "pm2 logs cheques-bot",
+    "pm2:delete": "pm2 delete cheques-bot"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "verification",
+    "youtube",
+    "ocr",
+    "tesseract",
+    "subscription",
+    "automation",
+    "image-recognition"
+  ],
+  "author": {
+    "name": "Tejv",
+    "url": "https://discord.gg/PYfeSaDGPJ"
+  },
+  "license": "Check Out The License In Licence/LICENSE.md",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "tesseract.js": "^5.1.0",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "jimp": "^0.22.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "eslint": "^8.57.0",
+    "prettier": "^3.3.2",
+    "@types/node": "^20.14.10"
+  },
+  "optionalDependencies": {
+    "pm2": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejvz/chequez.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tejvz/chequez/issues",
+    "support": "https://discord.gg/PYfeSaDGPJ"
+  },
+  "homepage": "https://github.com/tejvz/chequez#readme",
+  "funding": {
+    "type": "individual",
+    "url": "https://discord.gg/PYfeSaDGPJ"
+  },
+  "config": {
+    "port": 3000
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint:recommended"
+    ],
+    "env": {
+      "node": true,
+      "es2021": true
+    },
+    "parserOptions": {
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+    },
+    "rules": {
+      "no-console": "off",
+      "no-unused-vars": "warn",
+      "indent": ["error", 4],
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"]
+    }
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "printWidth": 80,
+    "bracketSpacing": true
+  }
+}
