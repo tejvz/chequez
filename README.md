@@ -59,13 +59,8 @@
 
 4. **Launch the Bot**
    ```bash
-   # Development mode with auto-restart
    npm run dev
-   
-   # Production mode
    npm start
-   
-   # Using PM2 for production
    npm run pm2:start
    ```
 
@@ -118,26 +113,16 @@
 ### Using PM2 (Recommended)
 
 ```bash
-# Start with PM2
 npm run pm2:start
-
-# View logs
 npm run pm2:logs
-
-# Restart bot
 npm run pm2:restart
-
-# Stop bot
 npm run pm2:stop
 ```
 
 ### Using Docker
 
 ```bash
-# Build image
 docker build -t cheques-bot .
-
-# Run container
 docker run -d --name cheques --env-file .env cheques-bot
 ```
 
@@ -252,5 +237,6 @@ This project is licensed under a **Custom License**. Please read the [LICENSE fi
 *🚀 Empowering Discord communities with intelligent verification*
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tejvz.chequez)](https://github.com/tejvz/chequez)
+
 
 </div>
