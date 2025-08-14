@@ -213,6 +213,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE](h
 - ✅ Modification allowed
 - ❌ Commercial use restricted
 - ❌ Distribution without permission prohibited
+- 💎 Giving credit is required
 
 ---
 
@@ -241,6 +242,7 @@ This project is licensed under a **Custom License**. Please read the [LICENSE](h
 
 
 </div>
+
 
 
 
